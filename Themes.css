@@ -12,6 +12,7 @@
 }
 
 [aria-label=Close][type=button]{
+    font-weight:bold !important;
     border-radius: 4px !important;
 }
 
