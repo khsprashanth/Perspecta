@@ -11,4 +11,11 @@
     background-color: #030000 !important;
 }
 
+[aria-label=Close][type=button]{
+    border-radius: 4px !important;
+}
+
+[aria-label=Close][type=button]:hover{
+   color: #FFD530 !important;
+}
 
