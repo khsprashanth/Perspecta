@@ -20,3 +20,26 @@
    color: #FFD530 !important;
 }
 
+body > div > div> div > div:nth-child(1) > button{
+font-size: 16px !important;
+    color: #030000 !important;
+    background-color: #BFB8A6 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;}
+
+body > div > div> div > div:nth-child(1) > button: hover{
+        background-color: #E5E5E5 !important; 
+}
+
+body > div > div > div > div:nth-child(2) > button{
+    color: #FFFFFF !important;
+    font-size: 16px !important;
+    background-color: #030000 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;  
+}
+
+body > div > div > div > div:nth-child(2) > button:hover{
+    color: #FFD530 !important;
+    background-color: #030000 !important;
+}
