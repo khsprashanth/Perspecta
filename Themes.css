@@ -1,13 +1,14 @@
-#segment_prim_btn_1{
-  color: #FFFFFF;
-  font-size:16px;
+#wfx-tooltip-back,#wfx-tooltip-next{
+    color: #FFFFFF !important;
+    font-size: 14px !important;
+    background-color: #030000 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;
 }
 
-#segment_prim_btn_1:hover{
-  color: #FFD530;
+#wfx-tooltip-back,#wfx-tooltip-next{
+    color: #FFD530 !important;
+    background-color: #030000 !important;
 }
 
-#segment_sec_btn_1{
-  font-size: 16px;
-  color: #030000;
-}
+
