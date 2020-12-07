@@ -38,6 +38,10 @@ body > div > div > div > div:nth-child(2) > button{
     font-weight: bold !important;  
 }
 
+body > div > div{
+   line-height:20px;
+}
+
 body > div > div > div > div:nth-child(2) > button:hover{
     color: #FFD530 !important;
     background-color: #030000 !important;
