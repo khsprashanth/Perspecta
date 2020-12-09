@@ -1,3 +1,24 @@
+/* SH Title */
+body > table > tbody > tr:nth-child(1) > td > div > div[data-wfx-id="self-help-title"]  {
+font-size : 18px !important;
+font-weight: bold;
+color: #FFFFFF !important; 
+}
+
+/* SH Flow Titles */
+[id*="wfx-dashboard-self-help-flow-"] {
+color: #030000 !important;
+font-size : 16px !important;
+}
+
+/* SH Search Field */
+input[id="search"]
+{
+font-size : 16px !important;
+color: #727365 !important;  
+}
+
+
 #wfx-tooltip-back,#wfx-tooltip-next{
     color: #FFFFFF !important;
     font-size: 14px !important;
