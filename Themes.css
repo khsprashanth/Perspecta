@@ -26,18 +26,26 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table{
     letter-spacing: 1px !important;
 }
 
+/* SH widget content tile Styling */
 [data-wfx-id="widget-content"]{
     border : none !important;
 }
 
+/* SH widget content tile Styling */
 [data-wfx-id="content-title"]{
    color: #000000 !important; 
 }
 
+/* SH search bar tile styling */
 #search{
     color: #000000 !important; 
 }
 
+/* SH Footer Styling to disappear */
+body > table > tbody > tr:nth-child(5) > td > div > table > tbody > tr > td
+{
+    background-color : #FFFFFF !important;
+}
 
 
 #wfx-tooltip-back,#wfx-tooltip-next{
