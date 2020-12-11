@@ -41,17 +41,6 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table{
     color: #000000 !important; 
 }
 
-/* SH Footer Styling to disappear */
-body > table > tbody > tr:nth-child(5) > td > div > table > tbody > tr > td
-{
-    background-color : #FFFFFF !important;
-}
-
-body > table > tbody > tr:nth-child(5) > td > div > table{
-   background-color : #FFFFFF !important; 
-}
-
-
 #wfx-tooltip-back,#wfx-tooltip-next{
     color: #FFFFFF !important;
     font-size: 14px !important;
