@@ -28,7 +28,10 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table{
 
 [data-wfx-id="widget-content"]{
     border : none !important;
-    color: #000000 !important;
+}
+
+[data-wfx-id="content-title"]{
+   color: #000000 !important; 
 }
 
 
