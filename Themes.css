@@ -11,7 +11,7 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td > div > div{
 }
 
 body > table > tbody > tr:nth-child(2) > td > div > div > table{
-    border-color: #FFFFFF;
+    border-color: #000000;
 }
 
 [data-wfx-id="self-help-title"]{
