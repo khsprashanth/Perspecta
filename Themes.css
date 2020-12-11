@@ -47,6 +47,10 @@ body > table > tbody > tr:nth-child(5) > td > div > table > tbody > tr > td
     background-color : #FFFFFF !important;
 }
 
+body > table > tbody > tr:nth-child(5) > td > div > table{
+   background-color : #FFFFFF !important; 
+}
+
 
 #wfx-tooltip-back,#wfx-tooltip-next{
     color: #FFFFFF !important;
