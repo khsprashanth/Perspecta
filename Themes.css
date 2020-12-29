@@ -13,7 +13,7 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
 }
 
 /* search bar bottom line color */
-body > table > tbody > tr:nth-child(2) > td > div > div > table{
+[data-wfx-id="self-help-search-grid"]{
     border-color: #000000 !important;
 }
 
