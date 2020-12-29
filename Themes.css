@@ -5,9 +5,9 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
 }
 
 /* SH search bar tile styling */
-body > table[role="presentation"] > tbody > tr:nth-child(2) > td > div > div{
+[data-wfx-id="self-help-search-panel"]{
     width : 456px !important;
-    height: 54px !important;
+    height: 40px !important;
     padding: 11.5px 18px;
     border-radius: 1px !important;
 }
