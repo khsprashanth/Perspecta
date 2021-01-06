@@ -51,11 +51,11 @@ iframe#wfx-frame-nativePopup > body > div > div > div > div:nth-child(1) > butto
     line-height: 22px !important;
 }
 /* Flow as Popup Secondary Button On Hover*/
-iframe#wfx-frame-nativePopup > body > div > div > div > div:nth-child(1) > button: hover {
+iframe#wfx-frame-nativePopup -> body > div > div > div > div:nth-child(1) > button: hover {
     background-color: #E5E5E5 !important;
 }
 /* Flow as Popup Primary Button*/
-iframe#wfx-frame-nativePopup > body > div > div > div > div:nth-child(2) > button {
+iframe#wfx-frame-nativePopup -> body > div > div > div > div:nth-child(2) > button {
     color: #FFFFFF !important;
     font-size: 16px !important;
     background-color: #030000 !important;
@@ -64,15 +64,15 @@ iframe#wfx-frame-nativePopup > body > div > div > div > div:nth-child(2) > butto
     line-height: 22px !important;
 }
 /* Flow as Popup line Height - applies to end message popup as well*/
-iframe#wfx-frame-nativePopup > body > div > div, body > div > div > div {
+iframe#wfx-frame-nativePopup -> body > div > div, body > div > div > div {
     line-height: 22px !important;
 }
 /* Flow as Popup Primary Button On Hover*/
-iframe#wfx-frame-nativePopup > body > div > div > div > div:nth-child(2) > button:hover {
+iframe#wfx-frame-nativePopup -> body > div > div > div > div:nth-child(2) > button:hover {
     color: #FFD530 !important;
     background-color: #030000 !important;
 }
 /* Flow as Popup -Do not skip button left justify*/
-iframe#wfx-frame-nativePopup > body > div > div > table > tbody > tr > td > table {
+iframe#wfx-frame-nativePopup -> body > div > div > table > tbody > tr > td > table {
     padding-right: 395px !important;
 }
