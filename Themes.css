@@ -31,7 +31,7 @@
 }
    
 /* SH widget content tile Styling */
-[data-wfx-id="widget-content"]{
+[data-wfx-id="widget-content"],[data-wfx-id="text-header"]{
     border : none !important;
 }
 
