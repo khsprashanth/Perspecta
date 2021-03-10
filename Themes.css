@@ -17,6 +17,10 @@
   padding-top: 3px;
 }
 
+[data-wfx-id="wfx-self-help-widget"] [class*="ico-edit"]{
+   background-color: #f0466f !important;
+}
+   
 /* SH widget content tile Styling */
 [data-wfx-id="widget-content"]{
     border : none !important;
