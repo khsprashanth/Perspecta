@@ -10,11 +10,16 @@
 }
 
 [data-wfx-id="self-help-search-grid"]{
+  color: lightgray !important;
   border: 2px solid lightgray;
   border-radius: 12px;
   border-radius: 4px;
   padding-left: 10px;
   padding-top: 3px;
+}
+
+[data-wfx-id="self-help-search-grid"] svg{
+  fill: lightgray !important;
 }
 
 [data-wfx-id="wfx-self-help-widget"] [class*="ico-edit"]{
