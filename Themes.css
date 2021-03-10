@@ -1,11 +1,11 @@
 
-/* SH search bar tile styling */
+
 /* SH title styling */
 [data-wfx-id="self-help-title"]{
-    text-align:left !important;
-    padding-left: 15px !important;
-    font-size: 15px !important;
-    line-height: 1.43 !important;
+   text-align:left !important;
+    padding-left:15px !important;
+    font-size:15px !important;
+    line-height:1.43 !important;
     letter-spacing: 1px !important;
 }
 
