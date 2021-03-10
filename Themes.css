@@ -18,6 +18,10 @@
   padding-top: 3px;
 }
 
+[data-wfx-id="wfx-self-help-widget"]{
+  border: none;
+}
+
 [data-wfx-id="self-help-search-grid"] svg{
   fill: lightgray !important;
 }
