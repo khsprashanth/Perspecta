@@ -9,6 +9,13 @@
     letter-spacing: 1px !important;
 }
 
+[data-wfx-id="self-help-search-grid"]{
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-top: 3px;
+}
 
 /* SH widget content tile Styling */
 [data-wfx-id="widget-content"]{
