@@ -27,6 +27,11 @@
    color: #000000 !important; 
 }
 
+[data-wfx-id="content-icon"]{
+   color: #000000 !important;
+   padding-left: 2px !important
+}
+
 /* SH search bar tile styling */
 #search{
     color: #000000 !important; 
