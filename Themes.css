@@ -1,11 +1,14 @@
 
 /* SH search bar tile styling */
-[data-wfx-id="self-help-search-panel"]{
-    width : 456px !important;
-    height: 38px !important;
-    padding: 1px 18px 11.5px;
-    border-radius: 1px !important;
+/* SH title styling */
+[data-wfx-id="self-help-title"]{
+    text-align:left !important;
+    padding-left: 24px !important;
+    font-size: 14px !important;
+    line-height: 1.43 !important;
+    letter-spacing: 1px !important;
 }
+
 
 /* SH widget content tile Styling */
 [data-wfx-id="widget-content"]{
