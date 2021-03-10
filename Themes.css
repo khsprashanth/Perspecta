@@ -1,8 +1,3 @@
-/* SH search bar tile styling */
-body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
-    padding:0px 6px 6px 6px;
-    background-color: #00a0d1 !important;  
-}
 
 /* SH search bar tile styling */
 [data-wfx-id="self-help-search-panel"]{
@@ -10,20 +5,6 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
     height: 38px !important;
     padding: 1px 18px 11.5px;
     border-radius: 1px !important;
-}
-
-/* search bar bottom line color */
-[data-wfx-id="self-help-search-grid"]{
-    border-color: #000000 !important;
-}
-
-/* SH title styling */
-[data-wfx-id="self-help-title"]{
-    text-align:left !important;
-    padding-left: 24px !important;
-    font-size: 14px !important;
-    line-height: 1.43 !important;
-    letter-spacing: 1px !important;
 }
 
 /* SH widget content tile Styling */
@@ -39,5 +20,10 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
 /* SH search bar tile styling */
 #search{
     color: #000000 !important; 
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap);
 }
 
