@@ -59,3 +59,9 @@
   src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap);
 }
 
+body > div > div > div > div:nth-child(1) > button{
+   border: 2px solid #EF3F6A;
+}
+body > div > div > div > div:nth-child(2) > button{
+   border: 2px solid #EF3F6A;
+}
