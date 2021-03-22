@@ -50,8 +50,14 @@
     color: #596377 !important; 
 }
 
-#_widget_wfx_{
-  border-radius: 50% !important;
+#Flow as popup Secondary button border styling
+body > div > div > div > div:nth-child(1) > button{
+   border-color: #f0466f !important;
+}
+
+#Flow as popup Secondary button border styling
+body > div > div > div > div:nth-child(2) > button{
+   border-color: #f0466f !important;
 }
 
 @font-face {
