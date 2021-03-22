@@ -50,12 +50,12 @@
     color: #596377 !important; 
 }
 
-#Flow as popup Secondary button border styling
+/*Flow as popup Secondary button border styling*/
 body > div > div:nth-child(2) > div > div:nth-child(1) > button{
    border-color: #f0466f !important;
 }
 
-#Flow as popup Secondary button border styling
+/*Flow as popup Secondary button border styling*/
 body > div > div:nth-child(2) > div > div:nth-child(2) > button{
    border-color: #f0466f !important;
 }
