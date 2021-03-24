@@ -60,6 +60,10 @@ body > div > div:nth-child(2) > div > div:nth-child(2) > button{
    border-color: #f0466f !important;
 }
 
+#wfx-end-popup-feedback-form > div:nth-child(2) > div:nth-child(3) > div > table{
+  border-radius : 2px !important;  
+}
+
 @font-face {
   font-family: myFirstFont;
   src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap);
