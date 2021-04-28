@@ -60,6 +60,10 @@ body > div > div:nth-child(2) > div > div:nth-child(2) > button{
    border-color: #f0466f !important;
 }
 
+#segment_prim_btn_1 {
+    background-color: #FFB6C1 !important;
+}
+
 
 @font-face {
   font-family: myFirstFont;
