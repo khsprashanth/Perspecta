@@ -61,19 +61,19 @@ body > div > div:nth-child(2) > div > div:nth-child(2) > button{
 }
 
 #segment_prim_btn_1:hover {
-    background-color: #FFB6C1 !important;
+    background-color: #005C6B !important;
 }
 
 #segment_prim_btn_1{
-    background-color: #87CEFA !important;
+    background-color: #006B7D !important;
 }
 
 #segment_sec_btn_1:hover{
-    background-color :#ff4da6 !important;
+    background-color : #F4F5F7 !important;
 }
 
 #segment_sec_btn_1{
-    background-color: #b19cd9 !important;
+    background-color: #F4F5F7 !important;
 }
 
 @font-face {
