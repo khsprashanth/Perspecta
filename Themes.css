@@ -69,11 +69,11 @@ body > div > div:nth-child(2) > div > div:nth-child(2) > button{
 }
 
 #segment_sec_btn_1:hover{
-    background-color: #FFCCCB !important;
+    background-color :#ff4da6 !important;
 }
 
 #segment_sec_btn_1{
-    background-color: #87CEFA !important;
+    background-color: #b19cd9 !important;
 }
 
 @font-face {
