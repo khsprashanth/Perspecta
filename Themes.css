@@ -18,7 +18,7 @@
   padding-top: 3px;
 }
 
-table[data-wfx-id="wfx-self-help-widget"] > tbody > tr:nth-child(4) > td > div > div > div > div > div > div:nth-child(2){
+table[data-wfx-id="wfx-self-help-widget"] > tbody > tr:nth-child(4) > td > div > div > div > div > div > div:nth-child(2)[style*="pointer-events: none;"]{
    margin-bottom: 50px !important;
 }
 
