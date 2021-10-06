@@ -8,5 +8,5 @@ table[data-wfx-id="wfx-self-help-widget"] tr:nth-child(5) > td > table{
 }
 
 [aria-label="Self Help Content ends."]{
-   background-color: rgb(0,0,0,0) !important;
+   background: rgb(0,0,0,0) !important;
 }
