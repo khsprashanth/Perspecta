@@ -1,3 +1,8 @@
 [data-wfx-id="self-help-header"]{
-   background-image : url("https://videos.whatfix.com/0ccd8650-0a1c-11eb-9661-22a91d6e4464/Hays_SelfHelp_Header.png");
+   background-image : url("https://videos.whatfix.com/0ccd8650-0a1c-11eb-9661-22a91d6e4464/SH_gradient.png");
+}
+
+table[data-wfx-id="wfx-self-help-widget"] tr:nth-child(5) > td > table{
+   background: rgb(0,39,117) !important;
+   background: linear-gradient(180deg, rgba(0,39,117,1) 35%, rgba(37,85,180,1) 100%) !important;
 }
